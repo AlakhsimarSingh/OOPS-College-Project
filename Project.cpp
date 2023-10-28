@@ -21,7 +21,7 @@ class person{//top level of inheritance
     ~person(){}
 };
 
-class admin: public person{//derived from person, 2nd level of inhritance
+class admin: public person{//derived from person, 2nd level of inhritence..
     public:
     admin(){}
     ~admin(){}
